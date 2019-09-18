@@ -1,29 +1,26 @@
 # movie_finder
 
-## Project setup
+Wanted to try out Vue.js
+
+## Prerequisite 
+
+Built with npm v6.9.0 and Node.js v10.16. Might not work with other versions.
+
+## To run the app
+
 ```
-npm install
+git clone git@github.com:niklasnordlund/movie_finder.git
+cd movie_finder
+npm install && npm start
 ```
 
-### Compiles and hot-reloads for development
+Then go to http://localhost:3001 in your browser.
+
+## To develop the app
+
 ```
+git clone git@github.com:niklasnordlund/movie_finder.git
+cd movie_finder
+npm install
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
